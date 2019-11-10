@@ -4,8 +4,6 @@ import net.serenitybdd.rest.SerenityRest;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 
-import static org.assertj.core.api.Assertions.assertThat;
-
 public class ResponseCode implements Question {
 
     public static Question<Integer> was(){
