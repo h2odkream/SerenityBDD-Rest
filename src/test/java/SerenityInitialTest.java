@@ -20,30 +20,11 @@ public class SerenityInitialTest {
                 .whoCan(CallAnApi.at(restApiUrl));
 
         Karen.attemptsTo(
-                Get.resource("/users?page=2")
+            GetUsers.fromPage(2) //deme los usuarios de la panina 2
         );
 
         //si la peticion es un exito, debe responder 200 (en postman es e status ok)
         assertThat(SerenityRest.lastResponse().statusCode()).isEqualTo(200);
-    }
-
-    /*
-    Para este esenario responde:
-    Expected :400
-    Actual   :200
-     */
-    @Test
-    public void getUsersFail(){
-        //Creamos el actor que tendra la habilidad de poder comunicarse a traves de la api on la url
-        Actor Karen = Actor.named("Karen the trainer")
-                .whoCan(CallAnApi.at(restApiUrl));
-
-        Karen.attemptsTo(
-                Get.resource("/users?page=2")
-        );
-
-        //si la peticion es un exito, debe responder 200 (en postman es e status ok)
-        assertThat(SerenityRest.lastResponse().statusCode()).isEqualTo(400);
     }
 
 }
