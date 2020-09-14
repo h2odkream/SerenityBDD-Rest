@@ -51,7 +51,14 @@ libranzas/target/
 libranzasPruebasManuales/
 libranzas_autogestion/target/
 
-!target/
+Solo agregar carpeta serenity
+Proyecto Libranza
+Documentos de pruebas
+libranzas_autogestion
+libranzas_autogestion_Manual
+!libranzas_autogestion_Manual/target/
+
+
 # Gradle
 
 .gradle/
