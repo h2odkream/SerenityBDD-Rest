@@ -55,6 +55,9 @@ Proyecto Libranza/
 Documentos de pruebas/
 libranzas_autogestion/
 libranzas_autogestion_Manual/
+src/
+pom.xml
+Rest Api.iml
 
 
 # Gradle
