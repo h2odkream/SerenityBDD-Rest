@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Solicitar un crédito de Libranzas por la SVP sin clave dinamica." skipped="1" tests="1" time="1.86" timestamp="2020-08-24 02:34:55"><testcase name="El cliente (sin estar enrolado en autenticacion fuerte) desembolsa un credito de libranzas sin clave dinamica."><skipped/></testcase></testsuite>
