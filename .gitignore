@@ -54,9 +54,10 @@ Solo agregar carpeta serenity
 Proyecto Libranza/
 Documentos de pruebas/
 libranzas_autogestion/
-!libranzas_autogestion/target/
+!libranzas_autogestion/
 libranzas_autogestion_Manual/
 
+target/
 
 # Gradle
 
