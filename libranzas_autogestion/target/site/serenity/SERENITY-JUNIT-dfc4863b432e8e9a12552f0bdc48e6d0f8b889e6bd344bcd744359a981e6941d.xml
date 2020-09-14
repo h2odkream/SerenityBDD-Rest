@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Solicitar un credito de Libranzas por la SVP con clave dinámica." skipped="1" tests="1" time="1.64" timestamp="2020-08-24 02:36:05"><testcase name="El cliente solicita un credito de libranza, y se realiza correctamente el desembolso."><skipped/></testcase></testsuite>

@@ -53,8 +53,7 @@ libranzasPruebasManuales/
 #Solo agregar carpeta serenity
 Proyecto Libranza/
 Documentos de pruebas/
-libranzas_autogestion/*
-!libranzas_autogestion/target/site/
+libranzas_autogestion/
 libranzas_autogestion_Manual/
 
 
