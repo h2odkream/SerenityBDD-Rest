@@ -1,0 +1,5 @@
+
+m
+=src/test/resources/features/reporte_base_de_datos_ibm.feature,a\f\af3e203a3439bfe5c3a2fc7fe1fc966366e3b4f6
+t
+Dsrc/test/resources/features/prueba_usuario_caracter_especial.feature,a\c\ac58e127d92717e9d2097501886c37163a37d4d9

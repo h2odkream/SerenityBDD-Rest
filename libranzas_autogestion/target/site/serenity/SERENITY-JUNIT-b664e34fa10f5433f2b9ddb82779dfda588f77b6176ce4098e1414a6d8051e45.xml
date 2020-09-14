@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Ingresar a la experiencia Libranzas por Oauth." skipped="2" tests="2" time="0.23" timestamp="2020-08-24 02:29:44"><testcase name="El cliente inicia sesion con credenciales incorrectas"><skipped/></testcase><testcase name="El cliente inicia sesion con clave bloqueada"><skipped/></testcase></testsuite>
