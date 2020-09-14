@@ -47,16 +47,15 @@ libranzasPruebasManuales/*.rar
 
 # Reportes serenity
 
-libranzas/target/
+libranzas/target/*
 libranzasPruebasManuales/
-libranzas_autogestion/target/
 
 Solo agregar carpeta serenity
 Proyecto Libranza
 Documentos de pruebas
-libranzas_autogestion
+libranzas_autogestion/
+!libranzas_autogestion/target
 libranzas_autogestion_Manual
-!libranzas_autogestion_Manual/target/
 
 
 # Gradle
